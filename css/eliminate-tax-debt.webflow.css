@@ -1828,7 +1828,7 @@ figcaption {
   height: 620px;
   color: #fff;
   background-color: #f4f4f4;
-  background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url('images/blue-paper-craft-framed-background-illustration-2023-11-27-05-15-03-utc.webp');
+  background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url('/images/blue-paper-craft-framed-background-illustration-2023-11-27-05-15-03-utc.webp');
   background-position: 0 0, 50%;
   background-size: auto, cover;
   justify-content: center;
